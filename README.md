@@ -4,6 +4,7 @@
 
 #### Stacks
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
 <!--
 **jaesekim/jaesekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
