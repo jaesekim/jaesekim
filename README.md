@@ -12,7 +12,12 @@
   <h4>Front</h4>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-</div> 
+  <br><br>
+</div>  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaesekim&layout=compact)](https://github.com/jaesekim/github-readme-stats)
+
 <!--
 **jaesekim/jaesekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
